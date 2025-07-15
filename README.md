@@ -1,1 +1,1 @@
-# e-commerce-clone
+Disclaimer: This project is for educational purposes only. It is a personal project inspired by Amazon’s UI and functionality. I do not own any of Amazon’s branding, trademarks, or logos. This is not affiliated with or endorsed by Amazon in any way.
